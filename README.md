@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @defenceeconomist
+- 👀 I’m interested in economics and data science
+- 🌱 I’m currently learning python and r
