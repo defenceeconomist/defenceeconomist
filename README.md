@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @defenceeconomist
 - 👀 I’m interested in economics, data science and research methods
-- 🌱 I’m currently learning python and r
+- :octocat: I code best in R
+- 🌱 I’m currently learning python
